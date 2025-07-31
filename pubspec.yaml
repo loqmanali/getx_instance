@@ -11,11 +11,15 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  
+
   getx_core:
     git:
       url: https://github.com/loqmanali/getx_core.git
-      
+
+  getx_navigation:
+    git:
+      url: https://github.com/loqmanali/getx_navigation.git
+
 
 dev_dependencies:
   flutter_test:

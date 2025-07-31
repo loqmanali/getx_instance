@@ -2,6 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:getx_core/getx_core.dart';
+import 'package:getx_navigation/src/router_report.dart';
 
 import 'lifecycle.dart';
 
